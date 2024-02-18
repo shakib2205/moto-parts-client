@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "642c155b2c4774f05c36eeaa",
+        "name": "Brakes",
+        "details": "A bicycle brake reduces the speed of a bicycle or prevents the wheels from moving. The two main types are: rim brakes and disc brakes.",
+        "image": "https://ibb.co/Y7MG7w9",
+        "price": 65,
+        "rating": 5
+    },
+    {
+        "_id": "642c155b2c4774f05c36eeb9",
+        "name": "Engine guards",
+        "details": "All motorcycles can be installed. All kinds of clams and nuts are provided with the engine guard. Protects your engine from all kinds of dirt and mud.",
+        "image": "https://ibb.co/42TnkGH",
+        "price": 47,
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7c",
+        "name": "Battery",
+        "details": "The battery is the main source of electrical energy in our vehicles. It stores chemicals, not electricity. Two different types of lead in an acid mixture react to produce an electrical force",
+        "image": "https://ibb.co/tZSxQ0g",
+        "price": 22,
+        "rating": 3
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee88",
+        "name": "Fuel tank",
+        "details": "The motorcycle tanks currently on the market are usually made of metal or blow-moulded plastic. Here we have thought ahead and combine injection moulding.",
+        "image": "https://ibb.co/86sbWVw",
+        "price": 102,
+        "rating": 4
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee7a",
+        "name": "Suspension",
+        "details": "Motorcycle suspensions were introduced at the starting of 20th century. At the very beginning suspensions were seen at the front wheel of a motorbike.",
+        "image": "https://ibb.co/TWzRKtW",
+        "price": 54,
+        "rating": 5
+    },
+    {
+        "_id": "642c155b2c4774f05c36ee8c",
+        "name": "Tires",
+        "details": "A bicycle tire consists of three basic elements: the carcass, the bead core and the rubber tread. Furthermore, almost all Schwalbe tires have a puncture protection belt.",
+        "image": "https://ibb.co/3N2vZc2",
+        "price": 75,
+        "rating": 4
+    }
+]
